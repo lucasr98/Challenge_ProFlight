@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}:root{font-size:100%}.main{align-items:center;display:flex;gap:2rem;height:100vh;justify-content:center;position:relative;width:100%}.logos{display:flex;gap:1rem}.logos__container{border-radius:.5rem;height:4rem;transition:opacity,.2s ease-in-out;width:4rem}.logos__img{border-radius:.5rem;object-fit:cover;width:100%}.button{background-color:initial;border:none;cursor:pointer;outline:none}.button svg{color:#27bad4;font-size:2rem}
+/*# sourceMappingURL=main.ed8e5b14.css.map*/
